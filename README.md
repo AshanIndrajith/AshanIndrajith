@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.ibb.co/s59bczY/Untitled-2-4.jpg" alt="Untitled-2-4" border="0"" />
+<img src="https://i.ibb.co/s59bczY/Untitled-2-4.jpg" />
 
 <!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
 <h1 align="left" id="macropower-title">Hello there! I'm Ashan Indrajith</h1>
