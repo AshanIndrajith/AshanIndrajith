@@ -21,8 +21,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashanindrajith610@gmail.com)](mailto:ashanindrajith610@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/AshanIndrajith)](https://github.com/AshanIndrajith)
-overflow&logoColor=white&link=https://stackoverflow.com/users/13410194/madushan-sandaruwan)](https://stackoverflow.com/users/13410194/)
-[![Linkedin Badge]/)
+
 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logoColor=white&logo=facebook&link=https://www.facebook.com/AshanIndrajith)](https://www.facebook.com/AshanIndrajith)
