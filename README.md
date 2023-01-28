@@ -18,7 +18,7 @@
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://AshanIndrajith.github.io)](https://AshanIndrajith.github.io)
 [![Whatsapp Badge]()](https://wa.me/+94771637551)
 [![Skype Badge]()
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashanindrajith610@gmail.com)](mailto:ashanindrajith610@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/AshanIndrajith)](https://github.com/AshanIndrajith)
 overflow&logoColor=white&link=https://stackoverflow.com/users/13410194/madushan-sandaruwan)](https://stackoverflow.com/users/13410194/)
