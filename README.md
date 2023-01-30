@@ -16,7 +16,7 @@
 <br>
 
 
-<br><br> <br>
+<br>
 &emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() 
 &emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()&emsp;
