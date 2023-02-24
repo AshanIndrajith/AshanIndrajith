@@ -5,7 +5,7 @@
   <a href="https://github.com/AshanIndrajith?tab=followers">
     <img src="https://img.shields.io/github/followers/AshanIndrajith?style=flat-square&color=040404&logo=github" alt="GitHub followers" />
   </a>
-</p>
+</p> <br>
 
 <img src="https://github.com/AshanIndrajith/AshanIndrajith/blob/main/cover.gif" width="100%" height="80%" />
 
