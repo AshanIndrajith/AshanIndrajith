@@ -28,6 +28,9 @@
 
 <br><br>
 
+            <table width="320px">
+    <tbody>
+        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -43,6 +46,19 @@
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+
+            </td>
+        </tr>
+  
+
+
+
+        
+
+
+   
+</table>
 
             
          
