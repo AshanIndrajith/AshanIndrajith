@@ -13,7 +13,7 @@
 <h1 align="left" id="macropower-title">Hello there! I'm Ashan Indrajith</h1>
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
-<br>
+
 
 
 <br><br>
