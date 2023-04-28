@@ -42,7 +42,7 @@
 
 
 
-<img src="https://github.com/AshanIndrajith/AshanIndrajith/blob/main/cover.gif" width="100%" height="80%" />
+<img src="https://github.com/AshanIndrajith/AshanIndrajith/blob/main/readgif.gif" width="100%" height="80%" />
 
 
 
