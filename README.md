@@ -41,9 +41,6 @@
 </a>
 
 
-<!--
-<img src="https://github.com/AshanIndrajith/AshanIndrajith/blob/main/readgif.gif" width="100%" height="80%" />
--->
 
 
 
