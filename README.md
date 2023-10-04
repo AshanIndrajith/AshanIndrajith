@@ -29,6 +29,7 @@
 
 
 <br><br>
+[![An image of @ashanindrajith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashanindrajith)](https://holopin.io/@ashanindrajith)
 
    
 
