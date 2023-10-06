@@ -41,10 +41,7 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanIndrajith&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="AshanIndrajith" align="right" />
 </a>
 <br><br
-
 [![An image of @ashanindrajith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashanindrajith)](https://holopin.io/@ashanindrajith)
-
-   
 
 
 
