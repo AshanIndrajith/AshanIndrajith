@@ -32,8 +32,6 @@ As an undergraduate student at the University of Ruhuna in Sri Lanka, I'm passio
 <br><br>
 
 
-
-
 <a href="#MadushanSandaru1-title">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=AshanIndrajith&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="AshanIndrajith" align="left" />
 </a>
